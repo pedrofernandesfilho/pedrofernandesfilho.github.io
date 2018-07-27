@@ -1,0 +1,19 @@
+{
+  "name": "pedrofernandesfilhowebsite",
+  "version": "1.0.0",
+  "description": "Pedro Fernandes Filho WebSite",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrofernandesfilho/pedrofernandesfilho.github.io.git"
+  },
+  "author": "Pedro Fernandes Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrofernandesfilho/pedrofernandesfilho.github.io/issues"
+  },
+  "homepage": "https://github.com/pedrofernandesfilho/pedrofernandesfilho.github.io#readme"
+}
