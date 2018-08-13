@@ -4,6 +4,9 @@
   "description": "Pedro Fernandes Filho WebSite",
   "main": "index.html",
   "scripts": {
+    "start": "parcel src/index.html --no-cache --open -d server",
+    "prebuild": "del-cli dist/** !dist !dist/README.md !dist/CNAME",
+    "build": "parcel build src/index.html --no-cache -d dist --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +20,7 @@
   },
   "homepage": "https://github.com/pedrofernandesfilho/pedrofernandesfilho.github.io#readme",
   "devDependencies": {
+    "del-cli": "^1.1.0",
     "parcel-bundler": "^1.9.7"
   }
 }
