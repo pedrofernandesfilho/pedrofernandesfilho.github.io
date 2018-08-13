@@ -1,1 +1,6 @@
+# Node/NPM
 node_modules
+
+# Parcel
+.cache
+server
