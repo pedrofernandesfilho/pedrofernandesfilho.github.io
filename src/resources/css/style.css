@@ -1,4 +1,9 @@
-/* Rodapé fixo */
+/* Materialize */
+@import "materialize-css/dist/css/materialize.css";
+/* Fontawesome */
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+/* Rodapé fixo (Materialize) */
 body {
     display: flex;
     min-height: 100vh;
