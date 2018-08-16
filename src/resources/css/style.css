@@ -1,0 +1,13 @@
+/* Rodapé fixo */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main { flex: 1 0 auto; }
+.card { text-align: center }
+.card a { color: #000 }
+.page-footer { background-color: #000 }
+
+/* Link */
+a:hover { color: purple }
