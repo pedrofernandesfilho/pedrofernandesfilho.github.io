@@ -16,3 +16,9 @@ main { flex: 1 0 auto; }
 
 /* Link */
 a:hover { color: purple }
+
+.clearLeft { clear: left }
+
+img.foto { 
+    margin: 10px
+}
