@@ -1,7 +1,7 @@
 # pedrofernandesfilho.github.io
 https://pedrofernandesfilho.github.io
 
-https://pedro.shift3.com.br
+https://pedrofernandes.dev
 
 
 
